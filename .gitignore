@@ -1,0 +1,12 @@
+/*.exe
+/*.dll
+/credits.html
+/*.log
+/*.dat
+/*.pak
+/*.bin
+/*.nexe
+/locales
+/pnacl
+/node_modules
+.vscode
